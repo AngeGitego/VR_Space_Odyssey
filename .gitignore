@@ -1,0 +1,22 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+*.pidb
+*.booproj
+*.svd
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+.vs/
+.vscode/
+.DS_Store
+.idea/

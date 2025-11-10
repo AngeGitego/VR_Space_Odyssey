@@ -1,0 +1,29 @@
+# Unity folders to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio files
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
+*.bak
+*.old
+*.pidb
+*.booproj
+
+# Unity auto-generated files
+*.unitypackage
+*.prefab.unitypackage

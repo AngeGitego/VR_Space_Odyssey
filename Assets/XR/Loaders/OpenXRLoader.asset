@@ -11,4 +11,8 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d3552e428dc7646a88de3ed3650f87da, type: 3}
   m_Name: OpenXRLoader
+<<<<<<< HEAD
   m_EditorClassIdentifier: 
+=======
+  m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.OpenXRLoader
+>>>>>>> 854c1d50c2df7a37b2076f122ba3c080e40ae767

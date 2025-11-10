@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unity folders to ignore
 [Ll]ibrary/
 [Tt]emp/
@@ -27,3 +28,27 @@ Thumbs.db
 # Unity auto-generated files
 *.unitypackage
 *.prefab.unitypackage
+=======
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+*.pidb
+*.booproj
+*.svd
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+.vs/
+.vscode/
+.DS_Store
+.idea/
+>>>>>>> 854c1d50c2df7a37b2076f122ba3c080e40ae767
